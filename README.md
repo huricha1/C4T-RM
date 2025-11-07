@@ -4,4 +4,4 @@ This is the official code for our paper https://www.sciencedirect.com/science/ar
 
 Training and Evaluation
 ===
-Running gap.py, interval.py, and point.py
+Run gap.py, interval.py, and point.py
